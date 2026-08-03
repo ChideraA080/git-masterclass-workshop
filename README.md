@@ -19,7 +19,7 @@ This repository is the shared, hands-on companion to Tech4Dev's TCLA Masterclass
 ## Quick Start
 
 \`\`\`bash
-git clone https://github.com/daveeedu/masterclass-demo.git
+git clone https://github.com/daveeedu/masterclass-demo.git # Team A
 cd git-masterclass-workshop
 \`\`\`
 
